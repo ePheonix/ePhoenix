@@ -10,8 +10,7 @@ I know it says "README" but why are you actually reading me? O,o Weirdo.
 - CSS
 - NodeJS
 - Shell Scripting
-- Basic Python (Only basic python because I aint no basic b***h)
+- Basic Python
 - PHP
-- Ruby
-- & Rust.
+- mySQL
 - Have a great day!
